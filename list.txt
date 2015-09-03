@@ -1,0 +1,2 @@
+root://eosams.cern.ch//eos/ams/Data/AMS02/2011B/ISS.B620/pass4/1310246458.00000001.root
+root://eosams.cern.ch//eos/ams/Data/AMS02/2011B/ISS.B620/pass4/1310246458.00919539.root

@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+IsACCPatternGood	main.cxx	/^bool IsACCPatternGood(AMSEventR* thisEvent)$/;"	f
+IsBadRun	main.cxx	/^bool IsBadRun(AMSEventR* thisEvent)$/;"	f
+IsGoodBeta	main.cxx	/^bool IsGoodBeta(AMSEventR* thisEvent)$/;"	f
+IsGoodLiveTime	main.cxx	/^bool IsGoodLiveTime(AMSEventR* thisEvent)$/;"	f
+IsHardwareStatusGood	main.cxx	/^bool IsHardwareStatusGood(AMSEventR* thisEvent)$/;"	f
+IsInSolarArrays	main.cxx	/^bool IsInSolarArrays(AMSEventR* thisEvent)$/;"	f
+IsInSouthAtlanticAnomaly	main.cxx	/^bool IsInSouthAtlanticAnomaly(AMSEventR* thisEvent)$/;"	f
+IsScienceRun	main.cxx	/^bool IsScienceRun(AMSEventR* thisEvent)$/;"	f
+IsShowerTrackMatched	main.cxx	/^bool IsShowerTrackMatched(AMSEventR* thisEvent)$/;"	f
+IsTrkAlignmentGood	main.cxx	/^bool IsTrkAlignmentGood(AMSEventR* thisEvent)$/;"	f
+IsUnbiasedPhysicsTriggerEvent	main.cxx	/^bool IsUnbiasedPhysicsTriggerEvent(AMSEventR* thisEvent)$/;"	f
+main	main.cxx	/^int main(int argc, char* argv[])$/;"	f
+releaseName	main.cxx	/^char releaseName[16];$/;"	v
+softwareName	main.cxx	/^char softwareName[10] = "ACCTOFInt";$/;"	v
+versionNumber	main.cxx	/^char versionNumber[5] = "0.01";$/;"	v
